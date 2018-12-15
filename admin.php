@@ -36,8 +36,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Siddharth Ashok</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Debargha Ganguly</h3>
+                  <p>Desi DroneX</p>
                 </div>
               </div>
               <div class="go-to-location">
@@ -48,8 +48,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Siddharth Shetty</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Goutam Paul</h3>
+                  <p>CiteMachine</p>
                 </div>
               </div>
               <div class="go-to-location">
@@ -60,8 +60,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Siddharth Shetty</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Shekhar Chatterjee</h3>
+                  <p>Vamica's broomstick</p>
                 </div>
               </div>
               <div class="go-to-location">
@@ -72,8 +72,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Abhishek Prabhu</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Sanchit Bansal</h3>
+                  <p>GFY Premium</p>
                 </div>
               </div>
               <div class="go-to-location">
@@ -84,8 +84,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Mereeva Alphanso</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Amlan Bibhudutta</h3>
+                  <p>SleepTastic Dronez</p>
                 </div>
               </div>
               <div class="go-to-location">
@@ -96,8 +96,8 @@ include("header.php"); ?>
             <div class="application">
               <div class="details">
                 <div class="wrap">
-                  <h3>Cedan Misquith</h3>
-                  <p>Parrot Bebop 2 FPV</p>
+                  <h3>Gaurav Nandan Tripathi</h3>
+                  <p>The Hathi</p>
                 </div>
               </div>
               <div class="go-to-location">
