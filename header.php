@@ -20,7 +20,7 @@ A class "homepage" has to be added only on homepage, as the header has different
       <div class="grid-wrap">
     <a href="index.php">
       <div class="site-logo">
-        <img src="img/logo.svg" alt="">
+        <img src="img/logo.png" alt="">
       </div>
     </a>
 
