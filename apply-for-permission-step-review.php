@@ -44,6 +44,7 @@ include("header.php"); ?>
         <div class="question">
           <h6>Area Selected</h6>
         </div>
+        <script src="https://apis.mapmyindia.com/advancedmaps/v1/fpxh3yzx3tw9gs2s46rabqehev7qkaab/map_load?v=01."></script>
         <div class="review-map-wrap">
           <div id="map" class="map"></div>
         </div>
