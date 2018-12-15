@@ -7,11 +7,11 @@ include("header.php"); ?>
       <div class="grid-x grid-padding-x">
         <div class="large-6 cell large-order-1 intro-text">
           <div class="wrap">
-            <h2 class="type-title-small">We monitor and administer the use of drones and unmanned aircrafts in India</h2>
+            <h2 class="type-title-small">We aim to help administer the use of drones in India.</h2>
           </div>
         </div>
         <div class="large-6 cell large-order-2  illustrations">
-          <img src="img/drone.gif" alt="">
+          <img src="img/giphy.gif" alt="">
         </div>
       </div>
     </div>

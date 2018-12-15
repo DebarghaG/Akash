@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 9</title>
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>page-start</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Verifying-Authority" transform="translate(-17.000000, -1317.000000)" fill="#245DFF">
-            <g id="CTA" transform="translate(0.000000, 1299.000000)">
-                <g id="Group-7">
-                    <g id="Group-9" transform="translate(17.000000, 18.000000)">
-                        <path d="M6.94219624,2.38994863 L18.5880743,2.38994863 C19.6926438,2.38994863 20.5880743,3.28537913 20.5880743,4.38994863 C20.5880743,4.79453574 20.4653684,5.18960953 20.2361581,5.52300628 L14.4132191,13.9927358 C13.7874486,14.9029473 12.5422892,15.1335324 11.6320776,14.507762 C11.4303256,14.3690574 11.2557559,14.1944878 11.1170514,13.9927358 L5.29411239,5.52300628 C4.66834193,4.6127947 4.89892702,3.36763524 5.80913859,2.74186478 C6.14253533,2.51265452 6.53760913,2.38994863 6.94219624,2.38994863 Z" id="Rectangle-8-Copy" transform="translate(12.765042, 8.624907) rotate(-270.000000) translate(-12.765042, -8.624907) "></path>
-                        <rect id="Rectangle-7" x="0" y="0" width="3" height="17" rx="1.5"></rect>
-                    </g>
-                </g>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="page-start" fill="#9724FF" fill-rule="nonzero">
+            <path d="M6.9421966,2.3899489 L18.5880747,2.3899489 C19.6926442,2.3899489 20.5880747,3.2853794 20.5880747,4.3899489 C20.5880747,4.79453601 20.4653688,5.1896098 20.2361585,5.52300655 L14.4132195,13.9927361 C13.787449,14.9029476 12.5422896,15.1335327 11.632078,14.5077623 C11.430326,14.3690577 11.2557563,14.1944881 11.1170518,13.9927361 L5.29411275,5.52300655 C4.66834229,4.61279497 4.89892738,3.36763551 5.80913895,2.74186505 C6.14253569,2.51265479 6.53760949,2.3899489 6.9421966,2.3899489 Z" id="Rectangle-8-Copy" transform="translate(12.765042, 8.624907) rotate(90.000000) translate(-12.765042, -8.624907) "></path>
+            <rect id="Rectangle-7" x="0" y="0" width="3" height="17" rx="1.5"></rect>
         </g>
     </g>
 </svg>

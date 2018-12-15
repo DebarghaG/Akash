@@ -9,9 +9,9 @@
             <!-- <a href="test-locations.php" class="button button-light"><img src="img/location.svg" alt="">Find test location</a> -->
 
             <ul>
-              <li><a href="#" target="_blank">MyGov</a></li>
-              <li><a href="#" target="_blank">Digital India</a></li>
-              <li><a href="#" target="_blank">File a Grievance</a></li>
+              <li><a href="#" target="_blank">Follow us on Instagram</a></li>
+              <li><a href="#" target="_blank">Follow us on Facebook</a></li>
+              <li><a href="#" target="_blank">Follow us on Twitter</a></li>
             </ul>
           </div>
         </div>
@@ -22,10 +22,11 @@
         <div class="grid-x grid-padding-x">
           <div class="large-12 cell">
             <ul>
-              <li><a href="#" target="_blank">Civil Aviation Requirements</a></li>
-              <li><a href="#" target="_blank">Guidance Manual</a></li>
-              <li><a href="#" target="_blank">Flight Training Organisations</a></li>
-              <li><a href="#" target="_blank">Test Locations</a></li>
+              <li><a href="http://dgca.nic.in/cars/D3X-X1.pdf" target="_blank">Civil Aviation Requirements</a></li>
+              <li><a href="http://www.dgca.nic.in/rpas/DGCA%20RPAS%20Guidance%20Manual.pdf" target="_blank">Guidance Manual</a></li>
+              <li><a href="/training-org.php" target="_blank">Flight Training Organisations</a></li>
+              <li><a href="/test-locations.php" target="_blank">Drone Testing Locations</a></li>
+              <li><a href="/faq.php" target="_blank">Frequently Asked Questions</a></li>
             </ul>
           </div>
         </div>
@@ -35,7 +36,7 @@
       <div class="grid-container">
         <div class="grid-x grid-padding-x">
           <div class="large-12 cell">
-            <p>&copy; 2018 Government Of India. All rights reserved.</p>
+            <p>&copy; 2018 Akash App. All rights reserved.</p>
           </div>
         </div>
       </div>
@@ -46,7 +47,7 @@
         <!-- <div class="logo-wrap"> -->
           <img src="img/dgca-logo.jpg" alt="">
         <!-- </div> -->
-        <!-- <h4>Airports Authority of India</h4> -->
+        <h4 style="color:white">Made with ❤️ in India.</h4>
       </div>
       <!-- </a> -->
     </div>
