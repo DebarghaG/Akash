@@ -58,7 +58,7 @@ include("header.php"); ?>
           </div>
           <div class="large-3 large-offset-1 cell">
             <div class="btn-wrap">
-              <a href="mapmyindia-adminview.php" class="button">Launch</a>
+              <a href="mapmyindia-userview.php" class="button">Launch</a>
             </div>
           </div>
         </div>
