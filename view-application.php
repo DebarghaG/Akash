@@ -8,7 +8,7 @@ include("header.php"); ?>
   <div class="grid-container">
     <div class="grid-x grid-padding-x">
       <div class="large-12 cell">
-        <label class="page-heading">Review your application</label>
+        <label class="page-heading">Review user's application</label>
       </div>
     </div>
   </div>
@@ -23,18 +23,18 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Name of applicant in full:</h6>
-            <p>Siddharth Ashok</p>
+            <p>Prajwal Seth</p>
           </div>
 
           <div class="question">
             <h6>Parentage</h6>
-            <p>Ashok Sharma</p>
+            <p>Pankaj Seith</p>
           </div>
 
           <div class="question">
             <h6>Present address</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Street, Gurugram,
+            India - 122003.</p>
           </div>
 
           <div class="question">
@@ -44,8 +44,8 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Permanent address</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Street, Gurugram,
+            India - 122003.</p>
           </div>
 
           <div class="question">
@@ -55,27 +55,27 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Date of birth</h6>
-            <p>06/09/1987</p>
+            <p>06/09/1997</p>
           </div>
 
           <div class="question">
             <h6>Place of birth</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>Kolkata,
+            </p>
           </div>
 
           <div class="question">
             <h6>Profession/ occupation after the age of 18 years</h6>
-            <p>Developer at Google</p>
-            <p>Developer at Apple, Developer at GrandWorks.</p>
+            <p>Designer at Google</p>
+            <p>Designer at Hullo Inc.</p>
           </div>
 
           <div class="question">
             <h6>Particulars of places, with full
   address, where the applicant has resided for more than a year during
   the preceding five years</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Street, Gurugram,
+            Haryana, India - 122003</p>
           </div>
 
           <div class="question">
@@ -102,8 +102,8 @@ include("header.php"); ?>
     <div class="grid-container">
       <div class="grid-x grid-padding-x">
         <div class="large-12 cell">
-          <a class="button button-accept">Accept Application</a>
-          <a class="button button-deny">Deny Application</a>
+          <a class="button button-accept" href="/admin.php">Accept Application</a>
+          <a class="button button-deny" href="/admin.php">Deny Application</a>
         </div>
       </div>
     </div>

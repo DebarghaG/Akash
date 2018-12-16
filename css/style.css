@@ -2156,7 +2156,7 @@ table tbody, table tfoot, table thead {
   header.site-header .user-nav.dashboard.open, header.site-header .site-nav.open {
     position: relative; }
   header.site-header.menu-open {
-    background: #005fff; }
+    background: #9723ff; }
   header.site-header .user-nav.dashboard.open .the-user-navigation, header.site-header .site-nav.open .the-site-navigation {
     max-width: 400px;
     left: auto;
@@ -2170,6 +2170,7 @@ table tbody, table tfoot, table thead {
     line-height: 24px;
     padding: 15px 30px; }
   .grid-container {
+  	/*margin-bottom: 3%;*/
     max-width: 1160px; }
   header.site-header {
     background: #9724ff; }

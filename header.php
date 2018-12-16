@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DigitalSky</title>
+    <title>Akash</title>
     <link rel="stylesheet" href="css/foundation.min.css">
     <link rel="stylesheet" href="css/style.css?v=28">
   </head>
@@ -106,9 +106,9 @@ User icon will only show up when user is logged in.
 
   <div class="the-user-navigation">
     <ul>
-      <li><a href="#">Approved applications</a></li>
-      <li><a href="#">Denied applications</a></li>
-      <li><a href="#">Pending applications</a></li>
+      <li><a href="/admin.php">Approved applications</a></li>
+      <li><a href="/admin.php">Denied applications</a></li>
+      <li><a href="/admin.php">Pending applications</a></li>
       <li><a href="index.php" class="logout">Logout</a></li>
     </ul>
   </div>
