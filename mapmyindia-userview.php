@@ -1,16 +1,22 @@
 <!DOCTYPE html>
+
+<?php include("header2.php"); ?>
+
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
-        <title>MapmyIndia Maps API: Circle Example</title>
+        <title>MapmyIndia Maps Based Userview</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <link rel="icon" href="http://mapmyindia.com/images/favicon.ico" type="image/x-icon">
                 <!--put your map api javascript url with key here-->
         <script src="https://apis.mapmyindia.com/advancedmaps/v1/fpxh3yzx3tw9gs2s46rabqehev7qkaab/map_load?v=0.1"></script>
+        <script src="js/Leaflet.Editable.js"></script>
+        <script src="js/Path.Drag.js"></script>
+
         <style type="text/css">
             /*map css **/
             body,html { height: 100%;font-family:Verdana,sans-serif, Arial;color:#555;margin: 0; font-size:12px; padding: 0; background:#fafafa}
-            #map{position: absolute;left: 312px; top: 46px;right: 2px; bottom: 2px;border: 1px solid #cccccc; }
+            #map{position: absolute;left: 312px; top: 10.7%;right: 2px; bottom: 2px;border: 1px solid #cccccc; }
             #menu {position: absolute;left: 2px; top: 46px;width: 306px;bottom: 2px;border: 1px solid #cccccc;background-color: #FAFAFA;overflow-x:hidden;overflow-y: auto;}
         </style>
         <script>
@@ -97,9 +103,8 @@
         </script>
         </head>
         <body>
-            <div style="border-bottom: 1px solid #e9e9e9;padding:10px 12px;background:#fff;"><span style="font-size: 20px">MapmyIndia Maps API:</span> <span style="font-size:16px;color:#777">Circle Example</span></div>
             <div id="menu">
-                <div style="padding: 0 12px 0 12px"> <div style="padding: 5px 0;font-size:13px;color:#222">Enter Latitude</div>
+                <div style="padding: 0 12px 0 12px"> <div style="margin-top:20%;  marginpadding: 5px 0;font-size:13px;color:#222">Enter Latitude</div>
                     <input type="text" style="width: 254px; margin-right: 10px;padding:5px;border:1px solid #ddd;color:#555" id="lat" placeholder="Latitude" autocomplete="off" onkeypress="if (event.which == 13 || event.keyCode == 13)
                                 showCircle();
                             return isNumberKeyDecimals(event);"><br/>
@@ -111,16 +116,18 @@
                         <input type="number" style="width: 254px; margin-right: 10px;padding:5px;border:1px solid #ddd;color:#555" id="radius" placeholder="radius" autocomplete="off" onkeypress="if (event.which == 13 || event.keyCode == 13)
                                     showCircle();
                                 return isNumberKeyDecimals(event);"/>
-                        <br/><br/><button onclick="showCircle();">Search</button>
+                        <br/><br/><button onclick="showCircle();">Insert</button>
+
+
                 </div>
                 <div style="margin-top: 20px">
                     <ul style=" line-height: 20px; font-size: 12px;">
-                        <li>Drag marker to geofence at your desired location</li>
-                    </ul>
+                      </ul>
                 </div>
                 <div style="border-top: 1px solid #e9e9e9;margin-top: 20px;padding: 10px 10px 5px 17px;font-size: 13px;" id="result">loading..</div>
             </div>
             <!--put your map container here-->
             <div id="map"></div>
+
         </body>
-        </html>
+          </html>

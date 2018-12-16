@@ -1,6 +1,8 @@
+<?php include("header2.php"); ?>
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
-        <title>MapmyIndia Maps API: Map Polygon Example!</title>
+        <title>MapmyIndia Admin View !</title>
         <link rel="icon" href="http://mapmyindia.com/images/favicon.ico" type="image/x-icon" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -10,9 +12,13 @@
         <script src="js/Path.Drag.js"></script>
 
         <style type="text/css">
-            html { height: 100%; }
-            body { height: 100%;font-family:Verdana,sans-serif, Arial;color:#000;margin: 0; font-size:14px; padding: 0; }
-            #map{
+        /*map css **/
+        body,html { height: 100%;font-family:Verdana,sans-serif, Arial;color:#555;margin: 0; font-size:12px; padding: 0; background:#fafafa}
+        #map{position: absolute;left: 312px; top: 10.7%;right: 2px; bottom: 2px;border: 1px solid #cccccc; }
+        #menu {position: absolute;left: 2px; top: 46px;width: 306px;bottom: 2px;border: 1px solid #cccccc;background-color: #FAFAFA;overflow-x:hidden;overflow-y: auto;}
+        </style>
+        <script>
+      #map{
                 position: absolute;
                 left: 312px; top: 46px;
                 right: 2px; bottom: 2px;
@@ -54,28 +60,21 @@
             #event-log{
                 padding:6px 12px 6px 38px;color: #777; font-size: 12px; line-height: 22px;
             }
+            </script>
         </style>
     </head>
     <body>
         <div class="top-div" >
-            <span class="top-div-span1">MapmyIndia Maps API: </span>
-            <span class="top-div-span2">Map Polygon Example</span>
+            <span class="top-div-span1">Admin View </span>
+            <span class="top-div-span2">Setting up no-fly zones</span>
         </div>
         <div id="result">
-            <div class="btn-div"><button onclick="mapmyindia_geometry_of_green_polygon()" >Green Polygon Geometry</button></div>
-            <div class="btn-div"><button onclick="mapmyindia_create_polygon_noneditable()" >Non-editable Polygon</button></div>
-            <div class="btn-div"><button onclick="mapmyindia_create_polygons_editable()" > Editable Polygon</button></div>
+            <div class="btn-div"><button onclick="mapmyindia_geometry_of_green_polygon()" >Large Polygon Bound Zone</button></div>
+            <div class="btn-div"><button onclick="mapmyindia_create_polygon_noneditable()" >Non-editable Polygon zone.</button></div>
+            <div class="btn-div"><button onclick="mapmyindia_create_polygons_editable()" > Zone bound by editable Small Polygon</button></div>
             <div class="btn-div"><button onclick="mapmyindia_remove_polygons()" >Remove Polygon</button></div>
 
-            <div class="msg-cont" >
-                <ul class="msg-list" >
-                    <li>Click anywhere on a polygon to show info window.</li>
-                    <li>Drag the polygon to shift to a new position.</li>
-                    <li>Click on controls to create a polygon,rectangle.</li>
-                    <li>Drag the marker to see if it is under the green polygon or outside.</li>
-                    <li>Control click on the drawn items to remove from map.</li>
-                </ul>
-            </div>
+  
             <div class="event-header" >Event Logs</div>
             <div id="event-log"></div>
         </div>
