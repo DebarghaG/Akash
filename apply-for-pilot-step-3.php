@@ -4,7 +4,7 @@ include("header.php"); ?>
 
 <div id="apply-for-form">
 
-<form class="" action="dashboard-no-data.php" method="post">
+<form class="" action="dashboard-2.php" method="post">
 
   <div class="apply-for-form-header">
     <div class="grid-container">
@@ -47,18 +47,18 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Name of applicant in full:</h6>
-            <p>Siddharth Ashok</p>
+            <p>Prajwal Seth</p>
           </div>
 
           <div class="question">
             <h6>Parentage</h6>
-            <p>Ashok Sharma</p>
+            <p>Pankaj Seith</p>
           </div>
 
           <div class="question">
             <h6>Present address</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Street,
+            Gurgaon, India - 122003.</p>
           </div>
 
           <div class="question">
@@ -68,8 +68,8 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Permanent address</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Street,
+            Gurgaon, India - 122003.</p>
           </div>
 
           <div class="question">
@@ -79,27 +79,27 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Date of birth</h6>
-            <p>06/09/1987</p>
+            <p>06/09/1997</p>
           </div>
 
           <div class="question">
             <h6>Place of birth</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>Kolkata
+            </p>
           </div>
 
           <div class="question">
             <h6>Profession/ occupation after the age of 18 years</h6>
-            <p>Developer at Google</p>
-            <p>Developer at Apple, Developer at GrandWorks.</p>
+            <p>Designer at Google</p>
+            <p>Designer at Hullo Inc.</p>
           </div>
 
           <div class="question">
             <h6>Particulars of places, with full
   address, where the applicant has resided for more than a year during
   the preceding five years</h6>
-            <p>Mountainview colony, 40002, Panaji,
-            Goa, India. Near Krishna Temple.</p>
+            <p>123 ABC Colony,
+        	Gurgaon, India - 122003.</p>
           </div>
 
           <div class="question">
@@ -109,7 +109,7 @@ include("header.php"); ?>
 
           <div class="question">
             <h6>Training Certificate</h6>
-            <p>Siddharth_certificate.pdf</p>
+            <p>Prajwal_certificate.pdf</p>
           </div>
 
           <div class="question">
@@ -131,8 +131,8 @@ include("header.php"); ?>
 furnished in this proforma is correct and complete to the best of my knowledge and belief. I am aware that furnishing of wrong information or suppression of factual or material information will dis-entitle me from grant of the license/ permit.</p>
 
           <div class="meta">
-            <h5>Date: 17th June 2018</h5>
-            <h5>Name: Siddharth Ashok</h5>
+            <h5>Date: 16th December 2018</h5>
+            <h5>Name: Prajwal Seth</h5>
           </div>
         </div>
       </div>
@@ -144,7 +144,7 @@ furnished in this proforma is correct and complete to the best of my knowledge a
       <div class="grid-x grid-padding-x">
         <div class="large-12 cell">
           <a href="apply-for-pilot-step-2.php" class="back"> <img src="img/back.svg" alt=""> Go back to previous step</a>
-          <button type="submit" class="button" name="button">Save & Continue</button>
+          <a class="button" data-open="application-status-modal" href='/dashboard-2.php'>Save & Continue</a>
         </div>
       </div>
     </div>

@@ -22,10 +22,6 @@
         <div class="grid-x grid-padding-x">
           <div class="large-12 cell">
             <ul>
-              <li><a href="http://dgca.nic.in/cars/D3X-X1.pdf" target="_blank">Civil Aviation Requirements</a></li>
-              <li><a href="http://www.dgca.nic.in/rpas/DGCA%20RPAS%20Guidance%20Manual.pdf" target="_blank">Guidance Manual</a></li>
-              <li><a href="/training-org.php" target="_blank">Flight Training Organisations</a></li>
-              <li><a href="/test-locations.php" target="_blank">Drone Testing Locations</a></li>
               <li><a href="/faq.php" target="_blank">Frequently Asked Questions</a></li>
             </ul>
           </div>

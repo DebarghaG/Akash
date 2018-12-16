@@ -11,7 +11,7 @@ include("header.php"); ?>
       </div>
       <div class="large-6 cell">
         <div class="buttons-wrap">
-          <a href="apply-for.php" class="button">Apply for licence</a>
+          <a href="apply-for-permission-step-1.php" class="button">Apply for permission</a>
           <div class="apply-step">
             <div class="wrap">
               <p>Apply for a license before buying a drone or applying UIN.</p>

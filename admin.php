@@ -7,13 +7,6 @@ include("header.php"); ?>
   <div class="grid-container">
     <div class="grid-x grid-padding-x">
       <div class="large-12 cell">
-        <ul class="menu">
-          <li><a href="#" class=""><span>Local Drone Acquisition</span></a></li>
-          <li><a href="#" class="active"><span>Import Drone</span></a></li>
-          <li><a href="#" class=""><span>UAOP</span></a></li>
-          <li><a href="#" class=""><span>UIN</span></a></li>
-          <li><a href="#" class=""><span>Permission</span></a></li>
-        </ul>
       </div>
     </div>
   </div>

@@ -502,8 +502,10 @@ label.page-heading {
     color: #4e0094; }
 
 .grid-padding-x > .cell {
-  padding-right: 40px;
-  padding-left: 40px; }
+
+  padding-right: 0px;
+  padding-left: 40px;
+ }
 
 main.content-area {
   min-height: calc(100vh - 277px); }

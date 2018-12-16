@@ -22,18 +22,18 @@ include("header.php"); ?>
 
         <div class="question">
           <h6>Name of applicant in full:</h6>
-          <p>Siddharth Ashok</p>
+          <p>Prajwal Seth</p>
         </div>
 
         <div class="question">
           <h6>Parentage</h6>
-          <p>Ashok Sharma</p>
+          <p>Pankaj Seith</p>
         </div>
 
         <div class="question">
           <h6>Present address</h6>
-          <p>Mountainview colony, 40002, Panaji,
-          Goa, India. Near Krishna Temple.</p>
+          <p>ABC colony, Gurgaon,
+          India - 122003.</p>
         </div>
 
         <div class="question">
@@ -41,13 +41,6 @@ include("header.php"); ?>
           <p>Yes, I am a resident of india</p>
         </div>
 
-        <div class="question">
-          <h6>Area Selected</h6>
-        </div>
-        <script src="https://apis.mapmyindia.com/advancedmaps/v1/fpxh3yzx3tw9gs2s46rabqehev7qkaab/map_load?v=01."></script>
-        <div class="review-map-wrap">
-          <div id="map" class="map"></div>
-        </div>
 
       </div>
     </div>
@@ -60,8 +53,8 @@ include("header.php"); ?>
   <div class="grid-container">
     <div class="grid-x grid-padding-x">
       <div class="large-12 cell">
-        <a href="apply-for-permission-select-altitude.php" class="back"> <img src="img/back.svg" alt=""> Go back to select area</a>
-        <button type="submit" class="button" name="button">apply for permission</button>
+        <a href="apply-for-permission-map.php" class="back"> <img src="img/back.svg" alt=""> Go back to select area</a>
+        <a class="button" href="/dashboard-2.php" data-open="application-status-modal" aria-controls="application-status-modal" aria-haspopup="true" tabindex="0">apply for permission</a>
       </div>
     </div>
   </div>

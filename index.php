@@ -7,7 +7,7 @@ include("header.php"); ?>
       <div class="grid-x grid-padding-x">
         <div class="large-6 cell large-order-1 intro-text">
           <div class="wrap">
-            <h2 class="type-title-small">We aim to help administer the use of drones in India.</h2>
+            <h2 class="type-title-small">We aim to help manage the use of drones in India.</h2>
           </div>
         </div>
         <div class="large-6 cell large-order-2  illustrations">
@@ -114,43 +114,6 @@ include("header.php"); ?>
     <div class="grid-container">
       <div class="grid-x grid-padding-x">
         <div class="large-12 cell">
-          <h2>Press Releases</h2>
-        </div>
-
-        <div class="large-6 cell">
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
-
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
-
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
-
-          <a href="#" class="button">Read More</a>
-        </div>
-
-        <div class="large-6 cell show-for-large">
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
-
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
-
-          <div class="article">
-            <a href="#"><h4>New drone policy launched in India</h4></a>
-            <div class="date">10 January 2018</div>
-          </div>
 
         </div>
 
@@ -158,36 +121,6 @@ include("header.php"); ?>
     </div>
   </section>
 
-  <section id="faq">
-    <div class="grid-container">
-      <div class="grid-x grid-padding-x">
-        <div class="large-12 cell">
-          <h2>FAQ</h2>
-
-          <ul class="accordion" data-accordion data-allow-all-closed="true">
-            <li class="accordion-item is-active" data-accordion-item>
-              <a href="#" class="accordion-title">Frequently asked question 1</a>
-              <div class="accordion-content" data-tab-content>
-                <p>Panel 1. Lorem ipsum dolor</p>
-              </div>
-            </li>
-            <li class="accordion-item" data-accordion-item>
-              <a href="#" class="accordion-title">Frequently asked question 2</a>
-              <div class="accordion-content" data-tab-content>
-                <p>Panel 2. Lorem ipsum dolor</p>
-              </div>
-            </li>
-            <li class="accordion-item" data-accordion-item>
-              <a href="#" class="accordion-title">Lorem ipsum dolor sit amet</a>
-              <div class="accordion-content" data-tab-content>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <div class="clearfix"></div>
 
