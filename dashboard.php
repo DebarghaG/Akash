@@ -48,23 +48,6 @@ include("header.php"); ?>
   </div>
   </section> -->
 
-  <section id="Launch UTM">
-    <div class="wrap">
-      <div class="grid-container">
-        <div class="grid-x grid-padding-x">
-          <div class="large-8 cell">
-            <h2>Launch UTM</h2>
-            <p></p>
-          </div>
-          <div class="large-3 large-offset-1 cell">
-            <div class="btn-wrap">
-              <a href="mapmyindia-userview.php" class="button">Launch</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <section id="application-status">
     <div class="grid-container">
