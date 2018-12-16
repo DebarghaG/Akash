@@ -517,7 +517,7 @@ header.site-header {
   z-index: 100;
   margin-bottom: -1px; }
   header.site-header .grid-container {
-    padding: 0px 10px; }
+    padding: 0%; }
   header.site-header .grid-wrap {
     height: 70px; }
   header.site-header.homepage {
@@ -2307,21 +2307,21 @@ table tbody, table tfoot, table thead {
   .special-feild-wrap .special-icon {
     margin-top: 0px; }
   .dashboard-header {
-    background: #0D45E4;
+    background: #6f10c3;
     padding: 50px 0px 40px 0px; }
   .dashboard-header .buttons-wrap {
     padding: 0px 50px; }
   .dashboard-header .button {
     display: block;
-    box-shadow: 0px 6px 5px 0px #0233BF;
+    box-shadow: 0px 6px 5px 0px #530258;
     margin-bottom: 10px;
     background: #ffffff;
     color: #9724ff; }
   .dashboard-header .button.disabled, .dashboard-header .button.disabled:focus, .dashboard-header .button.disabled:hover, .dashboard-header .button[disabled], .dashboard-header .button[disabled]:focus, .dashboard-header .button[disabled]:hover {
-    background: #517DF9;
-    box-shadow: 0px 6px 5px 0px #003DEB;
+    background: #a151f9;
+    box-shadow: 0px 6px 5px 0px #7e09af;
     border: 0px;
-    color: #92AEFC; }
+    color: #bc92fc; }
     .dashboard-header .button.disabled:hover, .dashboard-header .button.disabled:focus:hover, .dashboard-header .button.disabled:hover:hover, .dashboard-header .button[disabled]:hover, .dashboard-header .button[disabled]:focus:hover, .dashboard-header .button[disabled]:hover:hover {
       box-shadow: none; }
   .dashboard-header .apply-step {
