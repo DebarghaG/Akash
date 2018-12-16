@@ -91,7 +91,7 @@ include("header.php"); ?>
             <span class="operator">
                 <p><strong>Answer:</strong> As an owner of a drone, you must be well-versed with the CAR and the Do’s and Don’ts to understand what is required of you. Unless exempted by section 7.2 of the CAR, you will need a UAOP. Refer to Section 7 of the CAR for documentation required.</p>
                 <p class="in-india">Please ensure that the drone you are purchasing is an NPNT compliant drone. You will only be able to generate UINs for NPNT Compliant drone.</p>
-                <p class="import">For imports, a clearance from DGFT is also required along with NPNT compliance. If the drone is not a registered type in Digital Sky, you will also need to register as a manufacturer.</p>
+                <p class="import">For imports, a clearance from DGFT is also required along with NPNT compliance. If the drone is not a registered type in Akash, you will also need to register as a manufacturer.</p>
             </span>
             <span class="manufacturer">
               <p><strong>Answer:</strong> As a manufacturer, you must be well-versed with the CAR & RPAS Guidance Manual to understand compliance requirements before selling your drone. You will need an IT Act-compliant digital certificate to register yourself.</p>
